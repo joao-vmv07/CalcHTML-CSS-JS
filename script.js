@@ -17,3 +17,4 @@ function calcular(){
         document.getElementById('resultado').innerHTML = eval(resultado);
     }
 }
+//Projeto concluido
